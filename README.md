@@ -1,2 +1,2 @@
-# JeremyJacquette.github.io
+# jeremyjacquette.github.io
 portfolio
